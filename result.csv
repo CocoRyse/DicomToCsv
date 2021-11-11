@@ -1,0 +1,53 @@
+group,element,keyword,name
+0x0008,0x0005,SpecificCharacterSet,Specific Character Set
+0x0008,0x0008,ImageType,Image Type
+0x0008,0x0013,InstanceCreationTime,Instance Creation Time
+0x0008,0x0016,SOPClassUID,SOP Class UID
+0x0008,0x0018,SOPInstanceUID,SOP Instance UID
+0x0008,0x0030,StudyTime,Study Time
+0x0008,0x0033,ContentTime,Content Time
+0x0008,0x0050,AccessionNumber,Accession Number
+0x0008,0x0054,RetrieveAETitle,Retrieve AE Title
+0x0008,0x0055,StationAETitle,Station AE Title
+0x0008,0x0060,Modality,Modality
+0x0008,0x0070,Manufacturer,Manufacturer
+0x0008,0x1090,ManufacturerModelName,Manufacturer's Model Name
+0x0008,0x9215,DerivationCodeSequence,Derivation Code Sequence
+0x0010,0x0010,PatientName,Patient's Name
+0x0010,0x0020,PatientID,Patient ID
+0x0010,0x0040,PatientSex,Patient's Sex
+0x0010,0x1022,PatientBodyMassIndex,Patient's Body Mass Index
+0x0012,0x0062,PatientIdentityRemoved,Patient Identity Removed
+0x0012,0x0063,DeidentificationMethod,De-identification Method
+0x0018,0x0015,BodyPartExamined,Body Part Examined
+0x0018,0x0022,ScanOptions,Scan Options
+0x0018,0x0060,KVP,KVP
+0x0018,0x1020,SoftwareVersions,Software Versions
+0x0018,0x1110,DistanceSourceToDetector,Distance Source to Detector
+0x0018,0x1150,ExposureTime,Exposure Time
+0x0018,0x1151,XRayTubeCurrent,X-Ray Tube Current
+0x0018,0x1152,Exposure,Exposure
+0x0018,0x1160,FilterType,Filter Type
+0x0018,0x1190,FocalSpots,Focal Spot(s)
+0x0018,0x1260,PlateType,Plate Type
+0x0018,0x1700,CollimatorShape,Collimator Shape
+0x0018,0x5101,ViewPosition,View Position
+0x0018,0x7004,DetectorType,Detector Type
+0x0020,0x000d,StudyInstanceUID,Study Instance UID
+0x0020,0x000e,SeriesInstanceUID,Series Instance UID
+0x0020,0x0010,StudyID,Study ID
+0x0020,0x0011,SeriesNumber,Series Number
+0x0020,0x0013,InstanceNumber,Instance Number
+0x0020,0x0020,PatientOrientation,Patient Orientation
+0x0028,0x0002,SamplesPerPixel,Samples per Pixel
+0x0028,0x0004,PhotometricInterpretation,Photometric Interpretation
+0x0028,0x0010,Rows,Rows
+0x0028,0x0011,Columns,Columns
+0x0028,0x0030,PixelSpacing,Pixel Spacing
+0x0028,0x0100,BitsAllocated,Bits Allocated
+0x0028,0x0101,BitsStored,Bits Stored
+0x0028,0x0102,HighBit,High Bit
+0x0028,0x0103,PixelRepresentation,Pixel Representation
+0x0028,0x1050,WindowCenter,Window Center
+0x0028,0x1051,WindowWidth,Window Width
+0x7fe0,0x0010,PixelData,Pixel Data
